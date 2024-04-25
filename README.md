@@ -12,7 +12,7 @@ Focus: This session will introduce the foundational concepts of AI, including Ma
 
 ## Session 2: Hands-On Creation - Making
 
-Focus: In this practical session, participants will have the opportunity to create their own app prototypes using a toolbox provided via Hugging Face. This hands-on experience will allow attendees to apply their newly acquired knowledge in real-time generative AI to develop unique and personal art projects.
+Focus: In this practical session, participants will have the opportunity to create their own app prototypes using a toolbox provided by the artist. This hands-on experience will allow attendees to apply their newly acquired knowledge in real-time generative AI to develop unique and personal art projects.
 
 ## Session 1"
 ### Total Duration: 3 hours

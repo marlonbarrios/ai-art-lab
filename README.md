@@ -1,12 +1,12 @@
-# ar-art-lab 
-# 2 session April 25 and 25th 2024
+# ar-art-lab:  April 25 and 25th 2024
 
-## Workshop Outline: "Entangled with Imagination Engines - Session 1"
+## "Entangled with Imagination Engines - Session 1"
 
 ## Location: Radiona, Zagreb
 ### Total Duration: 3 hours
 #### Date: [Insert Date]
 
+## Outline 
 ---
 
 ### Introduction (10 minutes)

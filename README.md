@@ -27,7 +27,7 @@ Focus: In this practical session, participants will have the opportunity to crea
 ### Part 1: Artist's Presentation (1 hour and 20 minutes)
 1. **Lecture Performance (1 hour)**
    - Introduction to the artist and their work, with a focus on integrating creative processes with digital technologies.
-   - Performance incorporating multimedia elements linked to [the artist's GitHub](https://github.com/marlonbarrios/lecture).
+   - Performance incorporating multimedia elements linked to [the artist's GitHub](https://marlonbarrios.github.io/entalgledwithimaginationengines/).
 
 2. **Discussion (20 minutes)**
    - Participants discuss the performance and explore concepts introduced through the GitHub link.

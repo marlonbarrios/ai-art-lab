@@ -1,12 +1,23 @@
-# ar-art-lab:  April 25 and 25th 2024
+# ar-art-lab:  Accessing Latent Spaces: Introduction to Real-Time Open Source Generative AI
+## April 25 and 25th 2024
+![image-1](https://github.com/marlonbarrios/ar-art-lab/assets/90220317/97dc7974-9716-40f3-bfd8-9470ee26e0ec)
 
-## "Entangled with Imagination Engines - Session 1"
+> Overview: Join Marlon Barrios Solano for an immersive workshop titled "Access to Latent Space," a deep dive into the world of real-time open source generative AI. This workshop is structured into two three-hour sessions, offering participants a comprehensive introduction to cutting-edge AI technologies and their application in artistic creation.
+
+
+## Session 1: Generative AI and Its Artistic Integration
+
+Focus: This session will introduce the foundational concepts of AI, including Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, and Generative Adversarial Networks (GANs). Participants will explore these concepts through the lens of Marlon Barrios Solano's artworks, which illustrate the integration of these technologies in creating dynamic and generative art pieces.
+
+## Session 2: Hands-On Creation - Making
+
+Focus: In this practical session, participants will have the opportunity to create their own app prototypes using a toolbox provided via Hugging Face. This hands-on experience will allow attendees to apply their newly acquired knowledge in real-time generative AI to develop unique and personal art projects.
+
+## Session 1"
 
 ## Location: Radiona, Zagreb
 ### Total Duration: 3 hours
-#### Date: [Insert Date]
-
-## Outline 
+#### Date: April 25th
 ---
 
 ### Introduction (10 minutes)
@@ -45,5 +56,14 @@
 
 ---
 
-## Workshop Outline: "Entangled with Imagination Engines - Session 2: Apps practicum"
+## "Entangled with Imagination Engines - Session 1"
+
+## Location: Radiona, Zagreb
+### Total Duration: 3 hours
+#### Date: April 26th
+
+## Outline 
+explorat
+
+
 

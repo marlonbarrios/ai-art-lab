@@ -1,6 +1,6 @@
 # Accessing Latent Spaces: Introduction to Real-Time Open Source Generative AI
-## ar-art-lab workshop by marlon barrios solano  April 25-26 2024
-## [Radiona](https://radiona.org/), Zagreb
+## ar-art-lab workshop by marlon barrios solano | April 25-26 2024
+## [Radiona](https://radiona.org/), Zagreb | Croatia
 <img src="https://github.com/marlonbarrios/ar-art-lab/assets/90220317/97dc7974-9716-40f3-bfd8-9470ee26e0ec" width="100%" height="300">
 
 
@@ -15,8 +15,6 @@ Focus: This session will introduce the foundational concepts of AI, including Ma
 Focus: In this practical session, participants will have the opportunity to create their own app prototypes using a toolbox provided via Hugging Face. This hands-on experience will allow attendees to apply their newly acquired knowledge in real-time generative AI to develop unique and personal art projects.
 
 ## Session 1"
-
-## Location: Radiona, Zagreb
 ### Total Duration: 3 hours
 #### Date: April 25th
 ---

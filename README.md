@@ -1,6 +1,6 @@
 # Accessing Latent Spaces: Introduction to Real-Time Open Source Generative AI
 ## ar-art-lab workshop by marlon barrios solano  April 25-26 2024
-## Radiona, Zagreb
+## [Radiona](https://radiona.org/), Zagreb
 <img src="https://github.com/marlonbarrios/ar-art-lab/assets/90220317/97dc7974-9716-40f3-bfd8-9470ee26e0ec" width="100%" height="300">
 
 

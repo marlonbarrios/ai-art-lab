@@ -2,6 +2,7 @@
 ## ar-art-lab workshop by marlon barrios solano | April 25-26 2024
 ## [Radiona](https://radiona.org/), Zagreb | Croatia
 <img src="https://github.com/marlonbarrios/ar-art-lab/assets/90220317/97dc7974-9716-40f3-bfd8-9470ee26e0ec" width="100%" height="300">
+## AI models are powered by [Huggingsface](https://huggingface.co/), [Fal.ai](https://fal.ai/) and [Replicate](https://replicate.com/)
 
 
 > Overview: Join Marlon Barrios Solano for an immersive workshop titled "Access to Latent Space," a deep dive into the world of real-time open source generative AI. This workshop is structured into two three-hour sessions, offering participants a comprehensive introduction to cutting-edge AI technologies and their application in artistic creation.

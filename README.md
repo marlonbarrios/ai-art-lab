@@ -15,7 +15,7 @@ Focus: This session will introduce the foundational concepts of AI, including Ma
 
 Focus: In this practical session, participants will have the opportunity to create their own app prototypes using a toolbox provided by the artist. This hands-on experience will allow attendees to apply their newly acquired knowledge in real-time generative AI to develop unique and personal art projects.
 
-# "Entangled with Imagination Engines - Session 2"
+# Entangled with Imagination Engines - Session 1
 # Enter the Vortex
 ### Total Duration: 3 hours
 #### Date: April 25th
@@ -57,8 +57,8 @@ Focus: In this practical session, participants will have the opportunity to crea
 
 ---
 
-# "Entangled with Imagination Engines - Session 2"
-# Making + Hacking Session + App Structure
+# Entangled with Imagination Engines - Session 2
+# looking under the hood: Making + Hacking + App Structure
 
 ## Location: Radiona, Zagreb
 ### Total Duration: 3 hours

@@ -15,7 +15,7 @@ Focus: This session will introduce the foundational concepts of AI, including Ma
 
 Focus: In this practical session, participants will have the opportunity to create their own app prototypes using a toolbox provided by the artist. This hands-on experience will allow attendees to apply their newly acquired knowledge in real-time generative AI to develop unique and personal art projects.
 
-## Session 1"
+# Session 1"
 ### Total Duration: 3 hours
 #### Date: April 25th
 ---
@@ -56,12 +56,12 @@ Focus: In this practical session, participants will have the opportunity to crea
 
 ---
 
-## "Entangled with Imagination Engines - Session 1"
+# "Entangled with Imagination Engines - Session 2"
+# Making + Hacking Session + App Structure
 
 ## Location: Radiona, Zagreb
 ### Total Duration: 3 hours
 #### Date: April 26th
-# Making + Hacking Session
 
 ## Overview
 This session focuses on interactive learning and practical engagement with AI-powered web applications, specifically Vera AI and Bauhaus Time Traveller. Participants will explore, hack, and enhance these applications while also engaging with curated video content on Large Language Models (LLMs).
@@ -81,7 +81,6 @@ This session focuses on interactive learning and practical engagement with AI-po
 ### Bauhaus Time Traveller
 - **Live App:** [Bauhaus Time Traveller Live](https://bauhaus-time-traveler.vercel.app/)
 - **GitHub Repository:** [Bauhaus Time Traveller Repository](https://github.com/marlonbarrios/bauhaus-time-traveler)
-
 
 
 ## Session Schedule

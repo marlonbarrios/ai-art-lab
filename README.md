@@ -61,9 +61,60 @@ Focus: In this practical session, participants will have the opportunity to crea
 ## Location: Radiona, Zagreb
 ### Total Duration: 3 hours
 #### Date: April 26th
+# Making + Hacking Session
 
-## Outline 
-explorat
+## Overview
+This session focuses on interactive learning and practical engagement with AI-powered web applications, specifically Vera AI and Bauhaus Time Traveller. Participants will explore, hack, and enhance these applications while also engaging with curated video content on Large Language Models (LLMs).
+
+## Resources and Links
+
+### Video Resources
+- **Playlist on LLMs:** [LLM Video Playlist](https://www.youtube.com/playlist?list=PLC2ijZ2U-avhrb-yspQKMIkG9yOBo_Ji1)
+- **Other Relevant Works:** [Additional Video Playlist](https://www.youtube.com/playlist?list=PLC2ijZ2U-avhrb-yspQKMIkG9yOBo_Ji1)
+
+### [Use my Huggingface Spaces and models](https://huggingface.co/marlonbarrios)
+
+### Vera AI
+- **Live App:** [Vera AI Live](https://vera-ai.vercel.app/)
+- **GitHub Repository:** [Vera AI Repository](https://github.com/marlonbarrios/vera-ai2)
+
+### Bauhaus Time Traveller
+- **Live App:** [Bauhaus Time Traveller Live](https://bauhaus-time-traveler.vercel.app/)
+- **GitHub Repository:** [Bauhaus Time Traveller Repository](https://github.com/marlonbarrios/bauhaus-time-traveler)
+
+
+
+## Session Schedule
+
+### Opening Remarks (5-10 minutes)
+- Welcome and introduction to the session's objectives.
+
+###  More on Large Language Models (15-20 minutes)
+- Presentation and discussion of the video playlist on LLMs.
+
+### Hands-On Hacking (90 minutes)
+- Participants break into groups to work on either Vera AI or Bauhaus Time Traveller.
+- Tasks include bug fixes, feature enhancements, and UI improvements.
+
+### Exploration and Technical Review
+- Interactive exploration of the Vera AI and Bauhaus Time Traveller applications.
+- Deep dive into both GitHub repositories to understand the codebase and functionality.
+
+### Group Presentations and Feedback (30-40 minutes)
+- Groups present their work, discussing challenges and solutions.
+- Open feedback session with constructive discussions on enhancements.
+
+### Closing Remarks (5 minutes)
+- Summarize key takeaways and achievements.
+- Provide information on further resources and follow-up activities.
+
+## Preparation and Support
+- Ensure participants have access to all necessary tools and resources.
+- Setup development environments and access to repositories before the session.
+- 
+
+## Conclusion
+This session is designed to provide hands-on experience with real-world applications, fostering a deeper understanding of how LLMs can be integrated and utilized in technology projects. It encourages collaboration, innovation, and practical problem-solving.
 
 
 

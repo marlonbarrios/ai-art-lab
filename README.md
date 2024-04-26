@@ -75,6 +75,8 @@ This session focuses on interactive learning and practical engagement with AI-po
 
 ### [Use my Huggingface Spaces and models](https://huggingface.co/marlonbarrios)
 
+We will run these app locally som its deployiment in Vercel ins not covered in the workshop but you can fin information on how to deloy the app sin each repository.
+
 ### Vera AI
 - **Live App:** [Vera AI Live](https://vera-ai.vercel.app/)
 - **GitHub Repository:** [Vera AI Repository](https://github.com/marlonbarrios/vera-ai2)
